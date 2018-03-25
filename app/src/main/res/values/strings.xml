@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SQLite and Shared Preference</string>
+    <string name="action_settings">Setting</string>
+</resources>
